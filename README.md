@@ -15,7 +15,7 @@ Este es un SPA para encontrar la reservacion de hotel más economica.
 
 # Fuentes externas
 
-- Para el manejo del calendario se esta usando VueDatePicker de esta fuente https://vue3datepicker.com/installation/
+- Para el manejo del calendario se esta usando VueDatePicker el cual se puede revisar en esta fuente https://vue3datepicker.com/installation/
 - Para mostrar las estrellas del rating se usa código de w3schools
 
 ## Project Setup
