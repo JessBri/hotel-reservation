@@ -22,6 +22,7 @@ Este es un SPA para encontrar la reservacion de hotel más economica.
 
 ```sh
 npm install
+npm install @vuepic/vue-datepicker
 ```
 
 ### Compile and Hot-Reload for Development
