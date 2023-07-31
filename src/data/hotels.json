@@ -1,0 +1,56 @@
+{
+    "name": "list of hotels",
+    "hotels": [
+        {
+            "name": "Lakewood",
+            "code": "LKW",
+            "country": "EEUU",
+            "city": "Miami",
+            "rating": 3,
+            "prices": {
+                "regular_customer": {
+                    "weekday_price": 110,
+                    "weekend_price": 90
+                },
+                "reward_customer": {
+                    "weekday_price": 80,
+                    "weekend_price": 80
+                }
+            }
+        },
+        {
+            "name": "Bridgewood",
+            "code": "BGW",
+            "country": "EEUU",
+            "city": "Miami",
+            "rating": 4,
+            "prices": {
+                "regular_customer": {
+                    "weekday_price": 160,
+                    "weekend_price": 60
+                },
+                "reward_customer": {
+                    "weekday_price": 110,
+                    "weekend_price": 50
+                }
+            }
+        },
+        {
+            "name": "Ridgewood",
+            "code": "RGW",
+            "country": "EEUU",
+            "city": "Miami",
+            "rating": 5,
+            "prices": {
+                "regular_customer": {
+                    "weekday_price": 220,
+                    "weekend_price": 150
+                },
+                "reward_customer": {
+                    "weekday_price": 100,
+                    "weekend_price": 40
+                }
+            }
+        }
+    ]
+}
